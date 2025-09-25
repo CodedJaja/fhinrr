@@ -1,4 +1,4 @@
-# AI on FHIR — Take-Home
+# AI on FHIR
 
 ## Deliverables
 1. **Part 1 (Python NLP)**: `backend/nlp_to_fhir.py` — maps queries to simulated FHIR requests.
